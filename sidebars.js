@@ -6,7 +6,7 @@ module.exports = {
   // },
   docs :{
   'API Documentation': [
-    {Objects : ['allFunctions', 'app.ai']},
+    {Objects : ['allFunctions', 'app.ai', 'app.logger', 'app.context', 'app.memory']},
     {Methods: ['doc1']}
     ],
   'Release Notes' : [

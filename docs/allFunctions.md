@@ -4,8 +4,6 @@ title: allFunctions
 sidebar_label: app.allFunctions
 ---
 
-Created by Harish Mukkara
-
 ### Input Parameters
 
 

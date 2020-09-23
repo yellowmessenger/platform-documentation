@@ -1,0 +1,2 @@
+  PID TTY           TIME CMD
+ 7963 ttys000    0:17.26 /usr/local/Cellar/node/14.10.1/bin/node /Users/anirudhshenoy/Documents/docusaurus-v2/ym-docs/node_modules/.bin/docusaurus start

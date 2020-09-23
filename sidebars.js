@@ -6,8 +6,9 @@ module.exports = {
   // },
   docs :{
   'API Documentation': [
-    {Objects : ['allFunctions', 'app.ai', 'app.logger', 'app.context', 'app.memory']},
-    {Methods: ['doc1']}
+
+    {Objects : ['app.allFunctions', 'app.logger','app.memory', 'app.ai','app.allSteps','app.context','app.contextEndTime','app.createdUserMessageObject','app.data','app.dataStore','app.entityValidators','app.jsonWebToken','app.libraryStartTime','app.prediction','app.predictionEndTime','app.profile','app.soap']},
+    {Methods: ['sendTextMessage', 'executeFunction','app.invokeJourney','app.renderMessage','virusScanningAPI']}
     ],
   'Release Notes' : [
     'Aug 2020',

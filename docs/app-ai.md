@@ -1,6 +1,7 @@
 ---
 id: app.ai
 title: app.ai
+sidebar_label: app.ai
 ---
 
 

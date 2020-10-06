@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Yellow Messenger',
+  tagline: 'Conversational AI Platform',
   //url: 'https://anirudhshenoy.github.io',
   url: 'https://localhost',
   baseUrl: '/',
@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'YM-dev-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Yellow Messenger',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -25,7 +25,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/yellowmessenger/ym-documentation',
           label: 'GitHub',
           position: 'right',
         },

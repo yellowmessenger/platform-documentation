@@ -51,15 +51,19 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'Website',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
-              label: 'Discord',
+              label: 'Facebook',
               href: 'https://discordapp.com/invite/docusaurus',
             },
             {
               label: 'Twitter',
+              href: 'https://twitter.com/docusaurus',
+            },
+            {
+              label: 'LinkedIn',
               href: 'https://twitter.com/docusaurus',
             },
           ],
@@ -78,7 +82,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Yellow Messenger (Bitionic Technology Labs Inc)`,
     },
   },
   presets: [

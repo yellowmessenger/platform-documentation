@@ -14,7 +14,7 @@ module.exports = {
       title: 'Yellow Messenger',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/YM-Logo.ico',
       },
       items: [
         {

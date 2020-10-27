@@ -1,4 +1,4 @@
-#Microsoft Teams Integration
+# Microsoft Teams Integration
 
 ## What is Microsoft Teams
 
@@ -19,7 +19,7 @@ For Integrating Yellow Messenger MS Team channel, you will need to create a new 
 
 Steps to create a bot service :
 
-**Step 1**: Goto [https://portal.azure.com/](https://portal.azure.com/) then Search for Bot Services and click on Add Button.
+**Step 1**: Goto https://portal.azure.com/ then Search for Bot Services and click on Add Button.
 
 ![Azure Home > Bot Services](https://lh4.googleusercontent.com/EgvnrCsp6MrsjSkSnig0J4xlMHx85HTDE4Zv8xOrYEyTbEqlSw3OFhPnnCW143DDUNgV1c73lTgONTftL6j2ujl5X3QkMlSWx7T4dLBGkdeob7mpaLBy1r3p7Kccpk6R64PyViCF)
 
@@ -119,8 +119,9 @@ Goto Azure Portal > App Registration > API Permissions
 For enabling multi tenant: Enable multi tenant in the Azure AD integration in Yellow messenger and enable multi tenant on the App registration > Authentication
 
 **Graph APIs**:
-Documentation: (https://docs.microsoft.com/en-US/graph/api/overview?view=graph-rest-1.0)
-Explorer: (https://developer.microsoft.com/en-us/graph/graph-explorer)
+Documentation: https://docs.microsoft.com/en-US/graph/api/overview?view=graph-rest-1.0
+
+Explorer: https://developer.microsoft.com/en-us/graph/graph-explorer
 
 > Note: For APIs that require Admin consent, Admin can consent for their organisation via Azure Portal or at the time of Login itself.
 
@@ -129,9 +130,11 @@ Explorer: (https://developer.microsoft.com/en-us/graph/graph-explorer)
 
 Adaptive Cards are an open card exchange format enabling developers to exchange UI content in a common and consistent way.
 
-Designer: (https://adaptivecards.io/designer/)
-Documentation: (https://docs.microsoft.com/en-us/adaptive-cards/)
-Designer functionality: (https://adaptivecards.io/explorer/AdaptiveCard.html)
+Designer: https://adaptivecards.io/designer/
+
+Documentation: https://docs.microsoft.com/en-us/adaptive-cards/
+
+Designer functionality: https://adaptivecards.io/explorer/AdaptiveCard.html
 
 **Sending Adaptive Card using yellow messenger**:
 
@@ -214,7 +217,8 @@ Designer functionality: (https://adaptivecards.io/explorer/AdaptiveCard.html)
 
 Messaging extensions allow users to interact with your web service through buttons and forms in the Microsoft Teams client. They can search, or initiate actions, in an external system from the compose message area, the command box, or directly from a message
 
-Documentation: (https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions)
+Documentation: https://docs.microsoft.com/en-us/microsoftteams/platform/messaging-extensions/what-are-messaging-extensions
+
 
 Steps to integrate ME with Yellow Messenger:
 
@@ -338,7 +342,8 @@ After clicking on the preview user can view the Adaptive Card attached with the 
 
 Task modules allow you to create modal popup experiences in your Teams application. Inside the popup you can run your own custom HTML/JavaScript code, show an <iframe>-based widget such as a YouTube or Microsoft Stream video or display an Adaptive card.
 
-Documentation: (https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/what-are-task-modules)
+Documentation: https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/what-are-task-modules
+
 
 Create TM using Deeplink:
 ```
@@ -365,7 +370,8 @@ Create TM using Deeplink:
 
 The bot must be @mentioned. Your bot will not receive a message when the team or channel is mentioned, or when someone replies to a message from your bot without @mentioning it.
 
-Documentation: (https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/conversations/channel-and-group-conversations?tabs=json)
+Documentation: https://docs.microsoft.com/en-us/microsoftteams/platform/bots/how-to/conversations/channel-and-group-conversations?tabs=json
+
 
 **Adding a bot in a team or channel**:
 Goto channel and click on the + button with the tabs

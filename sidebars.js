@@ -71,7 +71,8 @@ module.exports = {
               'isBotPaused',
               'extractName',
               'getVariable']}
-    ] , 
+    ] ,
+    'WhatsApp API',
   'Release Notes' : [
     'Aug 2020',
     'Sep 2020'

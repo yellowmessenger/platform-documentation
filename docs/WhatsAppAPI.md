@@ -1,3 +1,7 @@
+----
+slug: /
+----
+
 # WhatsApp API Documentation
 
 In order to use the APIs, please follow the instructions given.

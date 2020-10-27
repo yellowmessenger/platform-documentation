@@ -68,16 +68,12 @@ module.exports = {
               'isBotPaused',
               'extractName',
               'getVariable']},
-    
     ],
     
-    'Integrations' : [
-    'WhatsAppAPI',
-    'Microsoft Teams'],
+    'Integrations' : [ 'WhatsAppAPI',
+                       'Microsoft Teams'],
     
-    'Release Notes' : [
-    'Aug 2020',
-    'Sep 2020'],
-    
-  },
+    'Release Notes' : [ 'Aug 2020',
+                        'Sep 2020']
+  }
 };

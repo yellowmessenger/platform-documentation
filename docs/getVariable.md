@@ -1,11 +1,11 @@
-//getVariable
+
 ## Input Parameters
 1. A string key that needs to be searched in the context
 
-​
+
 ## Output Parameters
 1. returns a promise, if the string keyword was set in journey at some point, it can be extracted. Else returns not found
-​
+
 ## Examples
 ​
 ```

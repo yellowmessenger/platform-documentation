@@ -1,4 +1,4 @@
-//
+
 ## Input Parameters
 1. journey-slug : the slug name of the journey i.e. Journey name converted to kabab case.(Delete memory becomes delete-memory) (Mandetory),  "String type"
 2. entities :any entites that are required by the journey (Optional) , "JSON object"

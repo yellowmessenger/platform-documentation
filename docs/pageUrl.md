@@ -1,6 +1,4 @@
-# app.pageUrl
-
-To fetch the page url from where the request is generated.
+app.pageUrl - To fetch the page url from where the request is generated.
 
 
 ## Examples

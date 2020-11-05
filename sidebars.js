@@ -60,7 +60,6 @@ module.exports = {
               'term',
               'wordToNumber',
               'sendEmailMessage',
-              'setActionFunction',
               'regexValidator',
               'orchestratorBotId',
               'app.BOT_ENV',

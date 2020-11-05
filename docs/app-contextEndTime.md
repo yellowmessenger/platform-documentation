@@ -6,10 +6,6 @@ sidebar_label: app.contextEndTime
 
 Date Object Instance corresponding to current time.
 
-## Input Parameters
-
-## Output Parameters
-
 ## Examples
 
 ```

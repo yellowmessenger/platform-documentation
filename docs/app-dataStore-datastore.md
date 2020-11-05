@@ -1,7 +1,7 @@
 ---
 id: app.dataStore
-title: app.dataStore | app.datastore
-sidebar_label: app.dataStore | app.datastore
+title: app.dataStore 
+sidebar_label: app.dataStore
 ---
 
 This app.dataStore or app.datastore  object provides methods to insert, search, delete and update MongoDB database. search method is a wrapper over full-text search engine elasticsearch(https://www.elastic.co/).

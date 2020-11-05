@@ -1,4 +1,4 @@
-//getVariable
+
 ## Input Parameters
 1. A string key that needs to be searched in the context
 

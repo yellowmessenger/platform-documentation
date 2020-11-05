@@ -1,8 +1,5 @@
-app.raiseTicker() is used to raise a ticket and assign it to an agent.
+app.raiseTicket() is used to raise a ticket and assign it to an agent.
 
-## Input Parameters
-None
-​
 ## Output Parameters
 Ticket Data, with the details of the ticket and agent it is assigned to.
 ​

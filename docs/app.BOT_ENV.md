@@ -1,11 +1,5 @@
-//app.BOT_ENV
-## Input Parameters
-1. None
+app.BOT_ENV returns the bot environment i.e. sanbox, staging, production
 
-​
-## Output Parameters
-1. returns the bot environment i.e. sanbox, staging, production
-​
 ## Examples
 ​
 ```

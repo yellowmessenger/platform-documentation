@@ -1,6 +1,4 @@
-# app.wordToNumber
-
-Extracts the number from a given string
+ app.wordToNumber - Extracts the number from a given string
 
 ## Input Parameters
 1. **message** : string message from which you want to extract numbers

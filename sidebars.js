@@ -36,7 +36,6 @@ module.exports = {
               'getTicket',
               'updateTicketCustomFields',
               'libphonenumber-js',
-              'getSalesforceAuthCredentials',
               'getCurrentActiveTicket',
               'createEmailTicket',
               'getSupportSettings',

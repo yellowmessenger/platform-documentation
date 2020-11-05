@@ -1,11 +1,9 @@
-memory.set
-
 This methods utilises the reddis memory to save values in the memory of the bot.
+
 ## Input Parameters
 1. reddix value to be set 
 2. value to be set,--> the value can be string or an objetc(or array of objects)
 3. expiry time,(optional)
-
 ​
 ## Output Parameters
 1. returns an empty promise.

@@ -1,4 +1,4 @@
-//isBotPaused
+
 ## Input Parameters
 1. app.bot : bot id
 2. app.sender : sender value

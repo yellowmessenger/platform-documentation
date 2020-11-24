@@ -1,7 +1,4 @@
 app.agentsAvailable() is used to a list of online agents.
-
-## Input Parameters
-None
 ​
 ## Output Parameters
 Array of objects, with all the details of the online agents.

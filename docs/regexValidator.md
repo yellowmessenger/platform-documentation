@@ -1,6 +1,4 @@
-# app.regexValidator
-
-Validates the given string against the regular expression
+app.regexValidator - Validates the given string against the regular expression
 
 ## Input Parameters
 1. **regex** : Regular experession to validate string

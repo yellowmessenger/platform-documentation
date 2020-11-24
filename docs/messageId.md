@@ -1,6 +1,4 @@
-# app.messageId()
-
-To fetch the messageId
+app.messageId() - To fetch the messageId
 
 
 ## Examples

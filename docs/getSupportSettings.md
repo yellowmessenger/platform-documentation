@@ -1,10 +1,4 @@
-# **getSupportSettings**
-
-Returns support settings for the bot. Useful for getting the names of custom fields.
-
-### Input parameters
-
-None
+getSupportSettings Returns support settings for the bot. Useful for getting the names of custom fields.
 
 Example
 

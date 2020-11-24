@@ -1,11 +1,6 @@
-//app.term
 
-## Input Parameters
-1. None
-
-​
 ## Output Parameters
-1. returns the last term input if exist
+  returns the last term input if exist
 ​
 ## Examples
 ​

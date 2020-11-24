@@ -1,4 +1,3 @@
-//extractName
 
 
 ## Input Parameters

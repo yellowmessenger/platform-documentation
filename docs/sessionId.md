@@ -1,6 +1,4 @@
-# app.sessionId()
-
-To fetch the sessionId
+app.sessionId() - To fetch the sessionId
 
 
 ## Examples

@@ -1,5 +1,3 @@
-# app.phonetics
-
 brief description of the object
 
 
@@ -10,10 +8,6 @@ brief description of the object
 use cases 
 
 #### example
-
- 
-
- 
 
 ``` java
 example code
@@ -33,17 +27,11 @@ explain about object
 
 #### example
 
- 
-
- 
 
 ``` java
 object structure
 ```
 
- 
-
- 
 
 ------------------------------------------------------------------------
 
@@ -83,7 +71,6 @@ explain about return value
 
 ### Example
 
- 
 
  
 
@@ -91,9 +78,6 @@ explain about return value
 example code
 ```
 
- 
-
- 
 
 ------------------------------------------------------------------------
 

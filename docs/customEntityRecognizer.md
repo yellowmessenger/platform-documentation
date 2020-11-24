@@ -1,11 +1,6 @@
 app.customEntityRecognizer is used to modify the prediction
 
-## Input Parameters
-None
-​
-## Output Parameters
-None
-​
+
 ## Example Usage
 ​
 ```javascript

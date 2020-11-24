@@ -1,9 +1,4 @@
 This function returns the profile details
-​
-
-## Input Parameters
-
-1. No Input
 
 ## Output Parameters
 

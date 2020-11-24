@@ -1,7 +1,4 @@
 app.getAgents() is used to a list of agents that have signed up in the 'Support' portal.
-
-## Input Parameters
-None
 ​
 ## Output Parameters
 Array of objects, with all the details of all the signed up agents.

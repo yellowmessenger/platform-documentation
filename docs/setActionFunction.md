@@ -1,6 +1,4 @@
-# app.setActionFunctions
-
-Sets the actions object
+app.setActionFunctions - Sets the actions object
 
 ## Input Parameters
 1. **actionFunctions** :  Javascript Object

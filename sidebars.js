@@ -69,7 +69,8 @@ module.exports = {
     ],
     
     'Integrations' : [ 'WhatsAppAPI',
-                       'Microsoft Teams'],
+                       'Microsoft Teams',
+                       'Slack'],
     
     'Release Notes' : [ 'Aug 2020',
                         'Sep 2020'],

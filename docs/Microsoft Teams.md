@@ -1,5 +1,3 @@
-# Microsoft Teams Integration
-
 ## What is Microsoft Teams
 
 Microsoft Teams is a communication and collaboration platform that combines workplace chat, video meetings, file storage, and application integration.
@@ -35,7 +33,7 @@ Steps to create a bot service :
 > Bot Handle: Set a unique bot identifier
 > Subscription: Create new if haven’t created earlier.
 > Resource Group: Create new if haven’t created earlier.
-> Messaging endpoint: https://app.yellowmessenger.com/integrations/botframework/<botID>
+> Messaging endpoint: https://app.yellowmessenger.com/integrations/botframework/[botID]
 > Microsoft App ID and Password: Auto create.
 
 
@@ -227,7 +225,7 @@ Steps to integrate ME with Yellow Messenger:
 ![](https://lh4.googleusercontent.com/gQFKtWaYejsyGaE5wqDwmxs188vsZsud4TJBRUob7v9najqluRBTQMlEjCvFlbH6wOfDC9BXcLj74AcmcDPeiFU6jXeM62YPfrOBbVIeKB4eC3UtPjpodNGkK1p0uGAVjTjJIv0R)
 
 
-**Step 2**: Configure your bot and change messaging endpoint to: https://app.yellowmessenger.com/integrations/sync/microsoft/extensions/<botID>
+**Step 2**: Configure your bot and change messaging endpoint to: https://app.yellowmessenger.com/integrations/sync/microsoft/extensions/[botID]
 
 ![](https://lh4.googleusercontent.com/nsD_snWZRoTvoYJwLvQJom89AM3AS4dsqFNm9vI3HsTXEPu9Qs7nIvH9PqXF5dLGK_ie6SJWcW4AoS79rToiTGk7FmXSaKnxi9e-X5dVC2mOyTUTjvQDHgML0Dv5aX69XHiGxfIV)
 
@@ -340,7 +338,7 @@ After clicking on the preview user can view the Adaptive Card attached with the 
 
 ## Task Module
 
-Task modules allow you to create modal popup experiences in your Teams application. Inside the popup you can run your own custom HTML/JavaScript code, show an <iframe>-based widget such as a YouTube or Microsoft Stream video or display an Adaptive card.
+Task modules allow you to create modal popup experiences in your Teams application. Inside the popup you can run your own custom HTML/JavaScript code, show an [iframe]-based widget such as a YouTube or Microsoft Stream video or display an Adaptive card.
 
 Documentation: https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/what-are-task-modules
 

@@ -28,12 +28,5 @@ app.ask("x1602139738821", {
 
 ## Output Images
 
-![Sample Code](./ask/01.png)
-
-![Output from target bot](./ask/02.png)
 
 ### target bot
-
-![TARGET BOT LOG](./ask/03.png)
-
-![TARGET BOT CODE](./ask/04.png)

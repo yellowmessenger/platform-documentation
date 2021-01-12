@@ -2,6 +2,7 @@
 id: app.allFunctions
 title: app.allFunctions
 sidebar_label: app.allFunctions
+slug: /
 ---
 
 ### Input Parameters

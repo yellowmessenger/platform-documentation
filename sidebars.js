@@ -54,7 +54,7 @@ module.exports = {
               'app_ai',
               'memory.set',
               'deleteStep',
-              'customeEntityRecognizer',
+              'customEntityRecognizer',
               'ask',
               'term',
               'wordToNumber',

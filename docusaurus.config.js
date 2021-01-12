@@ -1,14 +1,14 @@
 module.exports = {
   title: 'Yellow Messenger',
   tagline: 'Conversational AI Platform',
-  //url: 'https://anirudhshenoy.github.io',
+  //url: 'https://yellowmessenger.github.io',
   url: 'https://localhost',
+  //baseUrl: '/ym-documentation/',
   baseUrl: '/',
-  //baseUrl: '/YM-dev-docs/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'anirudhshenoy', // Usually your GitHub org/user name.
-  projectName: 'YM-dev-docs', // Usually your repo name.
+  organizationName: 'yellowmessenger', // Usually your GitHub org/user name.
+  projectName: 'ym-documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Yellow Messenger',

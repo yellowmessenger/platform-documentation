@@ -1,9 +1,10 @@
 module.exports = {
-  
+
   docs :{
+  'Introduction': ['Overview', 'Basics','Get Started'],
   'API Documentation': [
 
-    {Objects : ['app.allFunctions', 
+    {Objects : ['app.allFunctions',
     'app.logger',
     'app.memory',
      'app.ai',
@@ -26,8 +27,8 @@ module.exports = {
      'app.translate',
      'app.renderMessage',
      'app.phonetics']},
-    
-   {Methods: ['sendTextMessage' , 
+
+   {Methods: ['sendTextMessage' ,
               'executeFunction',
               'app.invokeJourney',
               'app.renderMessage',
@@ -67,11 +68,11 @@ module.exports = {
               'extractName',
               'getVariable']},
     ],
-    
+
     'Integrations' : [ 'WhatsAppAPI',
                        'Microsoft Teams',
                        'Slack'],
-    
+
     'Release Notes' : [ 'Aug 2020',
                         'Sep 2020'],
   },

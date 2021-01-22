@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Yellow Messenger',
   tagline: 'Conversational AI Platform',
-  //url: 'https://yellowmessenger.github.io',
+  //url: 'https://docs.yellowmessenger.com',
   url: 'https://localhost',
   //baseUrl: '/ym-documentation/',
   baseUrl: '/',
@@ -11,10 +11,9 @@ module.exports = {
   projectName: 'platform-documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Yellow Messenger',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/YM-Logo.ico',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -22,12 +21,6 @@ module.exports = {
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
-        },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/yellowmessenger/ym-documentation',
-          label: 'GitHub',
-          position: 'right',
         },
       ],
     },
@@ -78,15 +71,6 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/yellowmessenger/ym-documentation',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://blog.yellowmessenger.com/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

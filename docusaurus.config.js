@@ -8,7 +8,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'yellowmessenger', // Usually your GitHub org/user name.
-  projectName: 'platform-documentation', // Usually your repo name.
+  //projectName: 'platform-documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
       logo: {

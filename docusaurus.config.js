@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Yellow Messenger',
   tagline: 'Conversational AI Platform',
-  url: 'https://docs.yellowmessenger.com',
-  //url: 'https://localhost',
+  //url: 'https://docs.yellowmessenger.com',
+  url: 'https://localhost',
   //baseUrl: '/ym-documentation/',
   baseUrl: '/',
   onBrokenLinks: 'throw',

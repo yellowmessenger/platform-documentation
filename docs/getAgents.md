@@ -31,7 +31,7 @@ agents {
 		             "voip_password": null,
 		             "webrtc_username": null,
 		             "xmpp_username": "xyz",
-		             "avalability": {
+		             "availability": {
 		                 "currentHandlingTicketsCount": 0,
 		                 "status": "offline"
 		             }

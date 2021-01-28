@@ -1,10 +1,10 @@
 module.exports = {
   title: 'Yellow Messenger',
   tagline: 'Conversational AI Platform',
-  //url: 'https://yellowmessenger.github.io',
-  url: 'https://localhost',
-  //baseUrl: '/ym-documentation/',
-  baseUrl: '/',
+  url: 'https://yellowmessenger.github.io',
+  //url: 'https://localhost',
+  baseUrl: '/platform-documentation/',
+  //baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'yellowmessenger', // Usually your GitHub org/user name.
@@ -25,7 +25,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/yellowmessenger/ym-documentation',
+          href: 'https://github.com/yellowmessenger/platform-documentation',
           label: 'GitHub',
           position: 'right',
         },
@@ -80,7 +80,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/yellowmessenger/ym-documentation',
+            'https://github.com/yellowmessenger/platform-documentation',
         },
         blog: {
           showReadingTime: true,

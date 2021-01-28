@@ -5,16 +5,16 @@ module.exports = {
   //url: 'https://localhost',
   baseUrl: '/platform-documentation/',
   //baseUrl: '/',
+
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'yellowmessenger', // Usually your GitHub org/user name.
   projectName: 'platform-documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Yellow Messenger',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/YM-Logo.ico',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -87,6 +87,7 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://blog.yellowmessenger.com/blog/',
+
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

@@ -1,9 +1,10 @@
 module.exports = {
-  
+
   docs :{
+  'Introduction': ['Overview', 'Basics','Get Started'],
   'API Documentation': [
 
-    {Objects : ['app.allFunctions', 
+    {Objects : ['app.allFunctions',
     'app.logger',
     'app.memory',
      'app.ai',
@@ -26,8 +27,8 @@ module.exports = {
      'app.translate',
      'app.renderMessage',
      'app.phonetics']},
-    
-   {Methods: ['sendTextMessage' , 
+
+   {Methods: ['sendTextMessage' ,
               'executeFunction',
               'app.invokeJourney',
               'app.renderMessage',
@@ -65,9 +66,12 @@ module.exports = {
               'triggerJourney',
               'isBotPaused',
               'extractName',
-              'getVariable']},
+              'getVariable',
+              'app.htmlTicketChatTranscript',
+              'app.transferTicket',
+              'app.updateCollaborators']},
     ],
-    
+
     'Integrations' : [ 'WhatsAppAPI',
                        'Microsoft Teams'],
     
